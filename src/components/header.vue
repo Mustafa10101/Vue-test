@@ -1,6 +1,6 @@
 <template>
   <div class="header__inner">
-    <img src="../assets/Frame 1308.svg" alt="" />
+    <img src="../assets/Framen.svg" alt="" />
     <button class="btn">
       <img class="btn-img" src="../assets/list.svg" alt="" />
       Меню
