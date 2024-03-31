@@ -2,7 +2,7 @@
   <div class="footer__inner">
     <div class="footer-top">
       <ul class="footer-top-list">
-        <li class="footer-top-item"><img src="../assets/Frame 1308.svg" alt="" /></li>
+        <li class="footer-top-item"><img src="../assets/Framen.svg" alt="" /></li>
         <li class="footer-top-item">
           <a href="#"><span>8 800 841-95-95</span><br />Служба поддержки</a>
         </li>
